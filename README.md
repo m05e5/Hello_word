@@ -1,39 +1,55 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Hello_word
 
-the aim of this project is to get our pull request checked before merging
-# Built With
+> One paragraph statement about the project.
 
-    Html and CSS
+![screenshot](./readme.png)
 
-Live Demo
+Additional description about the project and its features.
 
-Live Demo Link
-Getting Started
+## Built With
 
-To get a local copy up and running follow these simple steps.
-Prerequisites
-Git clone
-Run the index.html
+- Html and CSS
 
-# Authors
+## Getting Started
 
-- Author1
-
-    GitHub: @m05e5
-    LinkedIn: caleb moses
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-# Contributing
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Clone git repo
+
+### Run the index.htm
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@m05e5](https://github.com/m05e5)
+
+
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
-# Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a star if you like this project!
-Acknowledgments
+## Show your support
 
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
+Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
