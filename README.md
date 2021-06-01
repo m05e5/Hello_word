@@ -34,11 +34,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@m05e5](https://github.com/m05e5)
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
