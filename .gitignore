@@ -4,10 +4,10 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+
 # Other files and folders
 .settings/
 /test.md
-
 # Executables
 *.swf
 *.air
